@@ -19,11 +19,3 @@ flowchart TD
     C --> D[Network Ready]
     D --> E[Browser Kiosk Mode]
     E --> F[JetKVM Web Interface]
-'''
-
-### Notes
-- Single-color default Mermaid styling
-- Minimal boot-to-JetKVM flow
-- GitHub-compatible
-
-Credits: https://github.com/jetkvm/website, https://porteus-kiosk.org/?utm_source=chatgpt.com
