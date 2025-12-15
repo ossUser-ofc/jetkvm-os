@@ -1,6 +1,5 @@
-# jetkvm-os
-I am trying to vibe code a simple os to run on low power devices that just runs the jetkvm website. 
-
+# jetkvm-os 
+I am trying to get a simple porteus running as a 'jetkvm os'
 This is work in progress. BUT I WILL PROVIDE A SIMPLE FLOWCHART :)
 
 # JetKVM Client Boot Flow (Porteus Kiosk)
