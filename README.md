@@ -9,7 +9,7 @@ This is work in progress. BUT I WILL PROVIDE A SIMPLE FLOWCHART :)
 - Minimal boot-to-JetKVM flow
 - GitHub-compatible
 
-Credits: https://github.com/jetkvm/website, https://porteus-kiosk.org/?utm_source=chatgpt.com
+Credits: https://github.com/jetkvm/website, https://porteus-kiosk.org
 
 ```mermaid
 flowchart TD
